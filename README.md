@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# `Live Project Demo`
+# [View project Demo](https://mian-ali.github.io/MiStore/)
+
 ## Available Scripts
 
 In the project directory, you can run:
