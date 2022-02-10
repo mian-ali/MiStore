@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# MiStore Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# `Live Project Demo`
+## Live Project Demo
 # [View project Demo](https://mian-ali.github.io/MiStore/)
 
 ## Available Scripts
